@@ -4,6 +4,6 @@ Ce CMS est une production à titre privé toute utilisation illicite peut entrai
 ---
 Pour installer le CMS rendez vous dans config
 et remplisser au moins les champs de connexion à la base de donnée
-
+__
 Une production pour HostMyServers
 ---
